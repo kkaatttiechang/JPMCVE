@@ -1,0 +1,5 @@
+ran into errors (check log), solution is to uninstall Xcode CommandTools and reinstall it.
+
+References:
+1) https://github.com/insidesherpa/JPMC-tech-task-2-PY3/issues/215
+2) https://medium.com/flawless-app-stories/gyp-no-xcode-or-clt-version-detected-macos-catalina-anansewaa-38b536389e8d
