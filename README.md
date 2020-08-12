@@ -1,4 +1,4 @@
 # JPMorgan Chase Virtual Internship
 This respository marks my progress and completion of JPMorgan Chase's Virtual Experience Program @InsideSherpa, the link of which could be found at https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk. Through this program I have learned more about the practices and work environments of a SWE, e.g. what an engineering ticket is, what and when to comment, and creating git patches for when I am not a direct contributor. JPMorgan Chase's program has also allowed me to experience the interdisciplinary nature of computer science more than ever: though it wasn't required, I learned so much about stocks and finances while completing the tasks. Definitely recommend
 
-![Certificate](https://github.com/kkaatttiechang/JPMC/blob/master/certificate.pdf)
+![Certificate](https://github.com/kkaatttiechang/JPMC/blob/master/certificate.pdf?raw=true)
